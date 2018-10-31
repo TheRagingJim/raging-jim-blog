@@ -4,12 +4,12 @@ import github from '../img/github-icon.svg'
 import logo from '../img/trjlogo.svg'
 
 const Navbar = () => (
-  <nav className="navbar is-transparent">
+  <nav className="navbar is-primary">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="tjrlogo" style={{ width: '300px' }} />
+            <img src={logo} alt="trjlogo" style={{ width: '300px' }} />
           </figure>
         </Link>
       </div>
