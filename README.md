@@ -1,4 +1,8 @@
-# Gatsby + Netlify CMS Starter
+# The Raging Jim Blog
+
+This is just a personal web blog I'm setting up to talk about things I enjoy while learning how to use git and play wirh some front ends and backend stuff like Netlify and Gatsby. It was originally cretaed with the Deploy to Netfly button bellow
+
+*the following text is from the original repo readme and will be removed froom later versions*
 
 **Note:** This starter uses the [Gatsby v2 Beta](https://www.gatsbyjs.org/blog/2018-06-16-announcing-gatsby-v2-beta-launch/).
 
